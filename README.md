@@ -1,5 +1,7 @@
 ### Hi there 👋
-WOW
+인생이란 원래 자기 생각대로 되지 않는 법이란다.
+![image](https://user-images.githubusercontent.com/84965370/146770668-0ff04f93-fc5a-4538-8bde-81c6d406eab9.png)
+
 <!--
 **Swallet923/Swallet923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
